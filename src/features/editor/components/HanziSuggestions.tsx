@@ -72,7 +72,7 @@ export default function HanziSuggestions({
         >
             {/* Main Suggestion Bar */}
             <div className="bg-card/90 backdrop-blur-md border border-border/50 rounded-lg shadow-2xl overflow-hidden flex items-center p-1">
-                <div className="suggestions-list flex items-center gap-0.5 max-w-[500px] overflow-x-auto no-scrollbar">
+                <div className="flex items-center gap-0.5 max-w-[500px] overflow-x-auto [&::-webkit-scrollbar]:hidden [-ms-overflow-style:none] [scrollbar-width:none]">
                     {suggestions.map((suggestion, index) => {
                         const isSelected = index === selectedIndex
                         const numberKey = index < 9 ? (index + 1).toString() : null

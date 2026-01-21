@@ -232,10 +232,9 @@ const Editor = forwardRef<HTMLDivElement, EditorProps>(({ onInput, content, hanz
         suppressContentEditableWarning
         onInput={handleInputChange}
         onKeyDown={handleKeyDown}
-        className="flex-1 overflow-auto p-8 text-lg leading-relaxed outline-none bg-card text-foreground selection:bg-primary/20 ring-2 ring-primary/50 rounded-lg m-4"
+        className="flex-1 overflow-auto p-8 text-lg leading-relaxed outline-none bg-card text-foreground selection:bg-primary/20 ring-2 ring-primary/50 rounded-lg m-4 whitespace-pre-wrap wrap-break-word"
         role="textbox"
         aria-label="Text editor"
-        style={{ whiteSpace: "pre-wrap", wordWrap: "break-word" }}
       />
       <div className="px-8 py-3 text-sm text-muted-foreground">{content.length} ký tự</div>
 
