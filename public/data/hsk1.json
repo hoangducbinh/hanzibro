@@ -1,0 +1,2186 @@
+[
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c1",
+        "index": 1,
+        "word": {
+            "hanzi": "爱",
+            "pinyin": "ài"
+        },
+        "meaning": "yêu",
+        "example": {
+            "hanzi": "我爱你。",
+            "pinyin": "Wǒ ài nǐ.",
+            "meaning": "Tôi yêu bạn."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c2",
+        "index": 2,
+        "word": {
+            "hanzi": "八",
+            "pinyin": "bā"
+        },
+        "meaning": "tám",
+        "example": {
+            "hanzi": "他有八个苹果。",
+            "pinyin": "Tā yǒu bā ge píngguǒ.",
+            "meaning": "Anh ấy có tám quả táo."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c3",
+        "index": 3,
+        "word": {
+            "hanzi": "爸爸",
+            "pinyin": "bàba"
+        },
+        "meaning": "bố",
+        "example": {
+            "hanzi": "我的爸爸很高。",
+            "pinyin": "Wǒ de bàba hěn gāo.",
+            "meaning": "Bố của tôi rất cao."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c4",
+        "index": 4,
+        "word": {
+            "hanzi": "杯子",
+            "pinyin": "bēizi"
+        },
+        "meaning": "cốc",
+        "example": {
+            "hanzi": "这是我的杯子。",
+            "pinyin": "Zhè shì wǒ de bēizi.",
+            "meaning": "Đây là cốc của tôi."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c5",
+        "index": 5,
+        "word": {
+            "hanzi": "北京",
+            "pinyin": "Běijīng"
+        },
+        "meaning": "Bắc Kinh",
+        "example": {
+            "hanzi": "北京很大。",
+            "pinyin": "Běijīng hěn dà.",
+            "meaning": "Bắc Kinh thì lớn."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c6",
+        "index": 6,
+        "word": {
+            "hanzi": "本",
+            "pinyin": "běn"
+        },
+        "meaning": "cuốn (dùng cho sách)",
+        "example": {
+            "hanzi": "这本书很有趣。",
+            "pinyin": "Zhè běn shū hěn yǒuqù.",
+            "meaning": "Quyển sách này rất thú vị."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c7",
+        "index": 7,
+        "word": {
+            "hanzi": "不客气",
+            "pinyin": "bú kèqì"
+        },
+        "meaning": "không có gì (đáp lại lời cảm ơn)",
+        "example": {
+            "hanzi": "不客气。",
+            "pinyin": "bú kèqì.",
+            "meaning": "Không có gì."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c8",
+        "index": 8,
+        "word": {
+            "hanzi": "不",
+            "pinyin": "bù"
+        },
+        "meaning": "không",
+        "example": {
+            "hanzi": "他不喜欢吃鱼。",
+            "pinyin": "Tā bù xǐhuān chī yú.",
+            "meaning": "Anh ấy không thích ăn cá."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c9",
+        "index": 9,
+        "word": {
+            "hanzi": "菜",
+            "pinyin": "cài"
+        },
+        "meaning": "món ăn, rau củ",
+        "example": {
+            "hanzi": "我喜欢吃菜。",
+            "pinyin": "Wǒ xǐhuān chī cài.",
+            "meaning": "Tôi thích ăn rau."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c10",
+        "index": 10,
+        "word": {
+            "hanzi": "茶",
+            "pinyin": "chá"
+        },
+        "meaning": "trà",
+        "example": {
+            "hanzi": "我喝茶。",
+            "pinyin": "Wǒ hē chá.",
+            "meaning": "Tôi uống trà."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c11",
+        "index": 11,
+        "word": {
+            "hanzi": "吃",
+            "pinyin": "chī"
+        },
+        "meaning": "ăn",
+        "example": {
+            "hanzi": "我吃苹果。",
+            "pinyin": "Wǒ chī píngguǒ.",
+            "meaning": "Tôi ăn táo."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c12",
+        "index": 12,
+        "word": {
+            "hanzi": "出租车",
+            "pinyin": "chūzūchē"
+        },
+        "meaning": "taxi",
+        "example": {
+            "hanzi": "我坐出租车。",
+            "pinyin": "Wǒ zuò chūzūchē.",
+            "meaning": "Tôi đi taxi."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c13",
+        "index": 13,
+        "word": {
+            "hanzi": "打电话",
+            "pinyin": "dǎ diànhuà"
+        },
+        "meaning": "gọi điện thoại",
+        "example": {
+            "hanzi": "她给我打电话。",
+            "pinyin": "Tā gěi wǒ dǎ diànhuà.",
+            "meaning": "Cô ấy gọi điện cho tôi."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c14",
+        "index": 14,
+        "word": {
+            "hanzi": "大",
+            "pinyin": "dà"
+        },
+        "meaning": "lớn, to",
+        "example": {
+            "hanzi": "这件衣服很大。",
+            "pinyin": "Zhè jiàn yīfú hěn dà.",
+            "meaning": "Cái áo này rất to."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c15",
+        "index": 15,
+        "word": {
+            "hanzi": "的",
+            "pinyin": "de"
+        },
+        "meaning": "của (thuộc tính)",
+        "example": {
+            "hanzi": "这是我的书。",
+            "pinyin": "Zhè shì wǒ de shū.",
+            "meaning": "Đây là sách của tôi."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c16",
+        "index": 16,
+        "word": {
+            "hanzi": "点",
+            "pinyin": "diǎn"
+        },
+        "meaning": "giờ (trong thời gian)",
+        "example": {
+            "hanzi": "现在是三点。",
+            "pinyin": "Xiànzài shì sān diǎn?",
+            "meaning": "Bây giờ là mấy giờ?"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c17",
+        "index": 17,
+        "word": {
+            "hanzi": "电脑",
+            "pinyin": "diànnǎo"
+        },
+        "meaning": "máy tính",
+        "example": {
+            "hanzi": "我用电脑。",
+            "pinyin": "Wǒ yòng diànnǎo.",
+            "meaning": "Tôi dùng máy tính."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c18",
+        "index": 18,
+        "word": {
+            "hanzi": "电视",
+            "pinyin": "diànshì"
+        },
+        "meaning": "ti vi",
+        "example": {
+            "hanzi": "电视很大。",
+            "pinyin": "Diànshì hěn dà.",
+            "meaning": "Tivi thì lớn."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c19",
+        "index": 19,
+        "word": {
+            "hanzi": "电影",
+            "pinyin": "diànyǐng"
+        },
+        "meaning": "phim",
+        "example": {
+            "hanzi": "我喜欢看电影。",
+            "pinyin": "Wǒ xǐhuān kàn diànyǐng.",
+            "meaning": "Tôi thích xem phim."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c20",
+        "index": 20,
+        "word": {
+            "hanzi": "东西",
+            "pinyin": "dōngxī"
+        },
+        "meaning": "đồ vật, thứ",
+        "example": {
+            "hanzi": "这是什么东西？",
+            "pinyin": "Zhè shì shénme dōngxī?",
+            "meaning": "Đây là cái gì?"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c21",
+        "index": 21,
+        "word": {
+            "hanzi": "都",
+            "pinyin": "dōu"
+        },
+        "meaning": "đều",
+        "example": {
+            "hanzi": "我们都去学校。",
+            "pinyin": "Wǒmen dōu qù xuéxiào.",
+            "meaning": "Chúng tôi đều đi đến trường."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c22",
+        "index": 22,
+        "word": {
+            "hanzi": "读",
+            "pinyin": "dú"
+        },
+        "meaning": "đọc",
+        "example": {
+            "hanzi": "她读书很快。",
+            "pinyin": "Tā dúshū hěn kuài.",
+            "meaning": "Cô ấy đọc sách rất nhanh."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c23",
+        "index": 23,
+        "word": {
+            "hanzi": "对不起",
+            "pinyin": "duìbùqǐ"
+        },
+        "meaning": "xin lỗi",
+        "example": {
+            "hanzi": "对不起，我迟到了。",
+            "pinyin": "Duìbuqǐ, wǒ chídào le.",
+            "meaning": "Xin lỗi, tôi đến muộn."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c24",
+        "index": 24,
+        "word": {
+            "hanzi": "多",
+            "pinyin": "duō"
+        },
+        "meaning": "nhiều",
+        "example": {
+            "hanzi": "我有很多书。",
+            "pinyin": "Wǒ yǒu hěn duō shū.",
+            "meaning": "Tôi có nhiều sách."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c25",
+        "index": 25,
+        "word": {
+            "hanzi": "多少",
+            "pinyin": "duōshǎo"
+        },
+        "meaning": "bao nhiêu",
+        "example": {
+            "hanzi": "这本书多少钱？",
+            "pinyin": "Zhè běn shū duōshǎo qián?",
+            "meaning": "Quyển sách này bao nhiêu tiền?"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c26",
+        "index": 26,
+        "word": {
+            "hanzi": "儿子",
+            "pinyin": "érzi"
+        },
+        "meaning": "con trai",
+        "example": {
+            "hanzi": "我的儿子很聪明。",
+            "pinyin": "Wǒ de érzi hěn cōngmíng.",
+            "meaning": "Con trai của tôi rất thông minh."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c27",
+        "index": 27,
+        "word": {
+            "hanzi": "二",
+            "pinyin": "èr"
+        },
+        "meaning": "hai",
+        "example": {
+            "hanzi": "我喜欢“二”数字。",
+            "pinyin": "Wǒ xǐhuān \"èr\" shùzi",
+            "meaning": "Tôi thích số 2."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c28",
+        "index": 28,
+        "word": {
+            "hanzi": "饭馆",
+            "pinyin": "fànguǎn"
+        },
+        "meaning": "nhà hàng",
+        "example": {
+            "hanzi": "我们去饭馆吃饭。",
+            "pinyin": "Wǒmen qù fànguǎn chīfàn.",
+            "meaning": "Chúng tôi đi nhà hàng ăn cơm."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c29",
+        "index": 29,
+        "word": {
+            "hanzi": "飞机",
+            "pinyin": "fēijī"
+        },
+        "meaning": "máy bay",
+        "example": {
+            "hanzi": "飞机很快。",
+            "pinyin": "Fēijī hěn kuài.",
+            "meaning": "Máy bay thì nhanh."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c30",
+        "index": 30,
+        "word": {
+            "hanzi": "分钟",
+            "pinyin": "fēnzhōng"
+        },
+        "meaning": "phút",
+        "example": {
+            "hanzi": "他等了五分钟。",
+            "pinyin": "Tā děngle wǔ fēnzhōng.",
+            "meaning": "Anh ấy đợi năm phút."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c31",
+        "index": 31,
+        "word": {
+            "hanzi": "高兴",
+            "pinyin": "gāoxìng"
+        },
+        "meaning": "vui",
+        "example": {
+            "hanzi": "我很高兴。",
+            "pinyin": "Wǒ hěn gāoxìng.",
+            "meaning": "Tôi rất vui."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c32",
+        "index": 32,
+        "word": {
+            "hanzi": "个",
+            "pinyin": "gè"
+        },
+        "meaning": "cái (đơn vị lượng từ)",
+        "example": {
+            "hanzi": "我有一个钱包。",
+            "pinyin": "Wǒ yǒu yī ge qiánbāo.",
+            "meaning": "Tôi có một cái ví tiền."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c33",
+        "index": 33,
+        "word": {
+            "hanzi": "工作",
+            "pinyin": "gōngzuò"
+        },
+        "meaning": "công việc",
+        "example": {
+            "hanzi": "我的工作很忙。",
+            "pinyin": "Wǒ de gōngzuò hěn máng.",
+            "meaning": "Công việc của tôi rất bận."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c34",
+        "index": 34,
+        "word": {
+            "hanzi": "狗",
+            "pinyin": "gǒu"
+        },
+        "meaning": "chó",
+        "example": {
+            "hanzi": "这只狗很可爱。",
+            "pinyin": "Zhè zhī gǒu hěn kě'ài.",
+            "meaning": "Con chó này rất dễ thương."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c35",
+        "index": 35,
+        "word": {
+            "hanzi": "汉语",
+            "pinyin": "Hànyǔ"
+        },
+        "meaning": "tiếng Hán",
+        "example": {
+            "hanzi": "我在学汉语。",
+            "pinyin": "Wǒ zài xué Hànyǔ.",
+            "meaning": "Tôi đang học tiếng Trung."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c36",
+        "index": 36,
+        "word": {
+            "hanzi": "好",
+            "pinyin": "hǎo"
+        },
+        "meaning": "tốt, khỏe",
+        "example": {
+            "hanzi": "他很好。",
+            "pinyin": "Tā hěn hǎo.",
+            "meaning": "Anh ấy rất tốt."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c37",
+        "index": 37,
+        "word": {
+            "hanzi": "喝",
+            "pinyin": "hē"
+        },
+        "meaning": "uống",
+        "example": {
+            "hanzi": "我喝水。",
+            "pinyin": "Wǒ hē shuǐ.",
+            "meaning": "Tôi uống nước."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c38",
+        "index": 38,
+        "word": {
+            "hanzi": "和",
+            "pinyin": "hé"
+        },
+        "meaning": "và",
+        "example": {
+            "hanzi": "我和你一起去。",
+            "pinyin": "Wǒ hé nǐ yīqǐ qù.",
+            "meaning": "Tôi và bạn cùng đi."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c39",
+        "index": 39,
+        "word": {
+            "hanzi": "很",
+            "pinyin": "hěn"
+        },
+        "meaning": "rất",
+        "example": {
+            "hanzi": "这个苹果很甜。",
+            "pinyin": "Zhège píngguǒ hěn tián.",
+            "meaning": "Cái táo này rất ngọt."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c40",
+        "index": 40,
+        "word": {
+            "hanzi": "后面",
+            "pinyin": "hòumiàn"
+        },
+        "meaning": "phía sau",
+        "example": {
+            "hanzi": "我家在后面。",
+            "pinyin": "Wǒ jiā zài hòumiàn.",
+            "meaning": "Nhà tôi ở phía sau."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c41",
+        "index": 41,
+        "word": {
+            "hanzi": "回",
+            "pinyin": "huí"
+        },
+        "meaning": "quay lại, về",
+        "example": {
+            "hanzi": "我回家了。",
+            "pinyin": "Wǒ huí jiā le.",
+            "meaning": "Tôi đã về nhà."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c42",
+        "index": 42,
+        "word": {
+            "hanzi": "会",
+            "pinyin": "huì"
+        },
+        "meaning": "sẽ, biết (kỹ năng)",
+        "example": {
+            "hanzi": "我会说汉语。",
+            "pinyin": "Wǒ huì shuō Hànyǔ.",
+            "meaning": "Tôi biết nói tiếng Trung."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c43",
+        "index": 43,
+        "word": {
+            "hanzi": "火车站",
+            "pinyin": "huǒchēzhàn"
+        },
+        "meaning": "ga tàu",
+        "example": {
+            "hanzi": "火车站在前面。",
+            "pinyin": "Huǒchēzhàn zài qiánmiàn.",
+            "meaning": "Ga tàu ở phía trước."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c44",
+        "index": 44,
+        "word": {
+            "hanzi": "几",
+            "pinyin": "jǐ"
+        },
+        "meaning": "mấy",
+        "example": {
+            "hanzi": "你有几个苹果？",
+            "pinyin": "Nǐ yǒu jǐ ge píngguǒ?",
+            "meaning": "Bạn có mấy quả táo?"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c45",
+        "index": 45,
+        "word": {
+            "hanzi": "家",
+            "pinyin": "jiā"
+        },
+        "meaning": "gia đình, nhà",
+        "example": {
+            "hanzi": "我家有四口人。",
+            "pinyin": "Wǒ jiā yǒu sì kǒu rén.",
+            "meaning": "Nhà tôi có bốn người."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c46",
+        "index": 46,
+        "word": {
+            "hanzi": "叫",
+            "pinyin": "jiào"
+        },
+        "meaning": "gọi, tên gọi",
+        "example": {
+            "hanzi": "她叫李娜。",
+            "pinyin": "Tā jiào Lǐ Nà.",
+            "meaning": "Cô ấy tên là Lý Na."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c47",
+        "index": 47,
+        "word": {
+            "hanzi": "今天",
+            "pinyin": "jīntiān"
+        },
+        "meaning": "hôm nay",
+        "example": {
+            "hanzi": "今天是星期一。",
+            "pinyin": "Jīntiān shì xīngqī yī.",
+            "meaning": "Hôm nay là thứ Hai."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c48",
+        "index": 48,
+        "word": {
+            "hanzi": "九",
+            "pinyin": "jiǔ"
+        },
+        "meaning": "chín",
+        "example": {
+            "hanzi": "我有九本书。",
+            "pinyin": "Wǒ yǒu jiǔ běn shū.",
+            "meaning": "Tôi có chín quyển sách."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c49",
+        "index": 49,
+        "word": {
+            "hanzi": "开",
+            "pinyin": "kāi"
+        },
+        "meaning": "mở, khởi động",
+        "example": {
+            "hanzi": "我们开车去。",
+            "pinyin": "Wǒmen kāichē qù.",
+            "meaning": "Chúng tôi đi bằng ô tô."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c50",
+        "index": 50,
+        "word": {
+            "hanzi": "看",
+            "pinyin": "kàn"
+        },
+        "meaning": "xem",
+        "example": {
+            "hanzi": "我喜欢看电影。",
+            "pinyin": "Wǒ xǐhuān kàn diànyǐng.",
+            "meaning": "Tôi thích xem phim."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c51",
+        "index": 51,
+        "word": {
+            "hanzi": "看见",
+            "pinyin": "kànjiàn"
+        },
+        "meaning": "nhìn thấy",
+        "example": {
+            "hanzi": "我看见你了。",
+            "pinyin": "Wǒ kànjiàn nǐ le.",
+            "meaning": "Tôi đã thấy bạn."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c52",
+        "index": 52,
+        "word": {
+            "hanzi": "块",
+            "pinyin": "kuài"
+        },
+        "meaning": "miếng, đồng (tiền)",
+        "example": {
+            "hanzi": "这个苹果两块钱。",
+            "pinyin": "Zhège píngguǒ liǎng kuài qián.",
+            "meaning": "Cái táo này hai tệ."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c53",
+        "index": 53,
+        "word": {
+            "hanzi": "来",
+            "pinyin": "lái"
+        },
+        "meaning": "đến",
+        "example": {
+            "hanzi": "明天我来。",
+            "pinyin": "Míngtiān wǒ lái.",
+            "meaning": "Ngày mai tôi đến."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c54",
+        "index": 54,
+        "word": {
+            "hanzi": "老师",
+            "pinyin": "lǎoshī"
+        },
+        "meaning": "giáo viên",
+        "example": {
+            "hanzi": "我的老师很友好。",
+            "pinyin": "Wǒ de lǎoshī hěn yǒuhǎo.",
+            "meaning": "Giáo viên của tôi rất thân thiện."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c55",
+        "index": 55,
+        "word": {
+            "hanzi": "了",
+            "pinyin": "le"
+        },
+        "meaning": "đã (dùng để chỉ sự thay đổi)",
+        "example": {
+            "hanzi": "她去了学校。",
+            "pinyin": "Tā qùle xuéxiào.",
+            "meaning": "Cô ấy đã đi đến trường."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c56",
+        "index": 56,
+        "word": {
+            "hanzi": "冷",
+            "pinyin": "lěng"
+        },
+        "meaning": "lạnh",
+        "example": {
+            "hanzi": "外面很冷。",
+            "pinyin": "Wàimiàn hěn lěng.",
+            "meaning": "Bên ngoài rất lạnh."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c57",
+        "index": 57,
+        "word": {
+            "hanzi": "里",
+            "pinyin": "lǐ"
+        },
+        "meaning": "trong",
+        "example": {
+            "hanzi": "我的书在里面。",
+            "pinyin": "Wǒ de shū zài lǐmiàn.",
+            "meaning": "Sách của tôi ở bên trong."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c58",
+        "index": 58,
+        "word": {
+            "hanzi": "零",
+            "pinyin": "líng"
+        },
+        "meaning": "không (số 0)",
+        "example": {
+            "hanzi": "今天零度。",
+            "pinyin": "Jīntiān líng dù.",
+            "meaning": "Hôm nay không độ."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c59",
+        "index": 59,
+        "word": {
+            "hanzi": "六",
+            "pinyin": "liù"
+        },
+        "meaning": "sáu",
+        "example": {
+            "hanzi": "我有六个苹果。",
+            "pinyin": "Wǒ yǒu liù ge píngguǒ.",
+            "meaning": "Tôi có sáu quả táo."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c60",
+        "index": 60,
+        "word": {
+            "hanzi": "妈妈",
+            "pinyin": "māma"
+        },
+        "meaning": "mẹ",
+        "example": {
+            "hanzi": "我的妈妈很漂亮。",
+            "pinyin": "Wǒ de māmā hěn piàoliang.",
+            "meaning": "Mẹ của tôi rất xinh đẹp."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c61",
+        "index": 61,
+        "word": {
+            "hanzi": "吗",
+            "pinyin": "ma"
+        },
+        "meaning": "không (dùng trong câu hỏi)",
+        "example": {
+            "hanzi": "你好吗？",
+            "pinyin": "Nǐ hǎo ma?",
+            "meaning": "Bạn khỏe không?"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c62",
+        "index": 62,
+        "word": {
+            "hanzi": "买",
+            "pinyin": "mǎi"
+        },
+        "meaning": "mua",
+        "example": {
+            "hanzi": "我买了水果。",
+            "pinyin": "Wǒ mǎile shuǐguǒ.",
+            "meaning": "Tôi đã mua trái cây."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c63",
+        "index": 63,
+        "word": {
+            "hanzi": "猫",
+            "pinyin": "māo"
+        },
+        "meaning": "mèo",
+        "example": {
+            "hanzi": "这只猫很可爱。",
+            "pinyin": "Zhè zhī māo hěn kě'ài.",
+            "meaning": "Con mèo này rất dễ thương."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c64",
+        "index": 64,
+        "word": {
+            "hanzi": "没",
+            "pinyin": "méi"
+        },
+        "meaning": "không có, chưa",
+        "example": {
+            "hanzi": "我没看见他。",
+            "pinyin": "Wǒ méi kànjiàn tā.",
+            "meaning": "Tôi không nhìn thấy anh ấy."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c65",
+        "index": 65,
+        "word": {
+            "hanzi": "没关系",
+            "pinyin": "méi guānxi"
+        },
+        "meaning": "không sao, không có gì",
+        "example": {
+            "hanzi": "下雨了，没关系，我们有伞。",
+            "pinyin": "Xiàyǔ le, méi guānxì, wǒmen yǒu sǎn.",
+            "meaning": "Trời mưa rồi, không sao đâu, chúng ta có ô."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c66",
+        "index": 66,
+        "word": {
+            "hanzi": "米饭",
+            "pinyin": "mǐfàn"
+        },
+        "meaning": "cơm",
+        "example": {
+            "hanzi": "我们吃米饭。",
+            "pinyin": "Wǒmen chī mǐfàn.",
+            "meaning": "Chúng tôi ăn cơm."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c67",
+        "index": 67,
+        "word": {
+            "hanzi": "明天",
+            "pinyin": "míngtiān"
+        },
+        "meaning": "ngày mai",
+        "example": {
+            "hanzi": "明天见。",
+            "pinyin": "Míngtiān jiàn.",
+            "meaning": "Ngày mai gặp."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c68",
+        "index": 68,
+        "word": {
+            "hanzi": "名字",
+            "pinyin": "míngzi"
+        },
+        "meaning": "tên",
+        "example": {
+            "hanzi": "你叫什么名字？",
+            "pinyin": "Nǐ jiào shénme míngzì?",
+            "meaning": "Bạn tên là gì?"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c69",
+        "index": 69,
+        "word": {
+            "hanzi": "哪里 (哪儿)",
+            "pinyin": "nǎlǐ (nǎr)"
+        },
+        "meaning": "đâu, chỗ nào",
+        "example": {
+            "hanzi": "你要去哪儿？",
+            "pinyin": "Nǐ yào qù nǎr？",
+            "meaning": "Bạn muốn đi đâu?"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c70",
+        "index": 70,
+        "word": {
+            "hanzi": "那",
+            "pinyin": "nà"
+        },
+        "meaning": "đó, kia",
+        "example": {
+            "hanzi": "那个书包很漂亮。",
+            "pinyin": "Nàge shūbāo hěn piàoliang.",
+            "meaning": "Cái cặp sách đó rất đẹp."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c71",
+        "index": 71,
+        "word": {
+            "hanzi": "呢",
+            "pinyin": "ne"
+        },
+        "meaning": "thì sao? (dùng để hỏi thêm)",
+        "example": {
+            "hanzi": "你呢？",
+            "pinyin": "Nǐ ne?",
+            "meaning": "Còn bạn thì sao?"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c72",
+        "index": 72,
+        "word": {
+            "hanzi": "能",
+            "pinyin": "néng"
+        },
+        "meaning": "có thể",
+        "example": {
+            "hanzi": "他能说三种语言。",
+            "pinyin": "Tā néng shuō sān zhǒng yǔyán.",
+            "meaning": "Anh ấy có thể nói ba ngôn ngữ."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c73",
+        "index": 73,
+        "word": {
+            "hanzi": "你",
+            "pinyin": "nǐ"
+        },
+        "meaning": "bạn",
+        "example": {
+            "hanzi": "你叫什么名字？",
+            "pinyin": "Nǐ jiào shénme míngzi?",
+            "meaning": "Bạn tên là gì?"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c74",
+        "index": 74,
+        "word": {
+            "hanzi": "年",
+            "pinyin": "nián"
+        },
+        "meaning": "năm",
+        "example": {
+            "hanzi": "我结婚三年了。",
+            "pinyin": "Wǒ jiéhūn sān nián le.",
+            "meaning": "Tôi kết hôn 3 năm rồi."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c75",
+        "index": 75,
+        "word": {
+            "hanzi": "女儿",
+            "pinyin": "nǚ'ér"
+        },
+        "meaning": "con gái",
+        "example": {
+            "hanzi": "她是我的女儿。",
+            "pinyin": "Tā shì wǒ de nǚ'ér.",
+            "meaning": "Con bé là con gái của tôi."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c76",
+        "index": 76,
+        "word": {
+            "hanzi": "朋友",
+            "pinyin": "péngyou"
+        },
+        "meaning": "bạn bè",
+        "example": {
+            "hanzi": "她的朋友很聪明。",
+            "pinyin": "Tā de péngyou hěn cōngmíng.",
+            "meaning": "Bạn của cô ấy rất thông minh."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c77",
+        "index": 77,
+        "word": {
+            "hanzi": "漂亮",
+            "pinyin": "piàoliang"
+        },
+        "meaning": "đẹp",
+        "example": {
+            "hanzi": "她很漂亮。",
+            "pinyin": "Tā hěn piàoliang.",
+            "meaning": "Cô ấy rất xinh đẹp."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c78",
+        "index": 78,
+        "word": {
+            "hanzi": "苹果",
+            "pinyin": "píngguǒ"
+        },
+        "meaning": "táo",
+        "example": {
+            "hanzi": "这个苹果很好吃。",
+            "pinyin": "Zhège píngguǒ hěn hǎochī.",
+            "meaning": "Táo này rất ngon."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c79",
+        "index": 79,
+        "word": {
+            "hanzi": "七",
+            "pinyin": "qī"
+        },
+        "meaning": "bảy",
+        "example": {
+            "hanzi": "我有七个朋友。",
+            "pinyin": "Wǒ yǒu qī ge péngyou.",
+            "meaning": "Tôi có bảy người bạn."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c80",
+        "index": 80,
+        "word": {
+            "hanzi": "钱",
+            "pinyin": "qián"
+        },
+        "meaning": "tiền",
+        "example": {
+            "hanzi": "这本书多少钱？",
+            "pinyin": "Zhè běn shū duōshǎo qián?",
+            "meaning": "Cuốn sách này giá bao nhiêu?"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c81",
+        "index": 81,
+        "word": {
+            "hanzi": "前面",
+            "pinyin": "qiánmiàn"
+        },
+        "meaning": "phía trước",
+        "example": {
+            "hanzi": "火车站在前面。",
+            "pinyin": "Huǒchēzhàn zài qiánmiàn.",
+            "meaning": "Ga tàu ở phía trước."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c82",
+        "index": 82,
+        "word": {
+            "hanzi": "请",
+            "pinyin": "qǐng"
+        },
+        "meaning": "xin vui lòng, mời",
+        "example": {
+            "hanzi": "请给我菜单。",
+            "pinyin": "Qǐng gěi wǒ càidān.",
+            "meaning": "Xin vui lòng đưa cho tôi thực đơn."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c83",
+        "index": 83,
+        "word": {
+            "hanzi": "去",
+            "pinyin": "qù"
+        },
+        "meaning": "đi",
+        "example": {
+            "hanzi": "我们要去商店。",
+            "pinyin": "Wǒmen yào qù shāngdiàn.",
+            "meaning": "Chúng tôi phải đến cửa hàng."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c84",
+        "index": 84,
+        "word": {
+            "hanzi": "热",
+            "pinyin": "rè"
+        },
+        "meaning": "nóng",
+        "example": {
+            "hanzi": "天气很热。",
+            "pinyin": "Tiānqì hěn rè.",
+            "meaning": "Thời tiết rất nóng."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c85",
+        "index": 85,
+        "word": {
+            "hanzi": "人",
+            "pinyin": "rén"
+        },
+        "meaning": "người",
+        "example": {
+            "hanzi": "这个人很友好。",
+            "pinyin": "Zhè ge rén hěn yǒuhǎo.",
+            "meaning": "Người này rất thân thiện."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c86",
+        "index": 86,
+        "word": {
+            "hanzi": "认识",
+            "pinyin": "rènshi"
+        },
+        "meaning": "quen biết",
+        "example": {
+            "hanzi": "我认识他。",
+            "pinyin": "Wǒ rènshi tā.",
+            "meaning": "Tôi quen anh ấy."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c87",
+        "index": 87,
+        "word": {
+            "hanzi": "日",
+            "pinyin": "rì"
+        },
+        "meaning": "ngày",
+        "example": {
+            "hanzi": "今天是几月几日？",
+            "pinyin": "Jīntiān shì jǐ yuè jǐ rì?",
+            "meaning": "Hôm nay là ngày mấy tháng mấy?"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c88",
+        "index": 88,
+        "word": {
+            "hanzi": "三",
+            "pinyin": "sān"
+        },
+        "meaning": "ba",
+        "example": {
+            "hanzi": "我有三本书。",
+            "pinyin": "Wǒ yǒu sān běn shū.",
+            "meaning": "Tôi có ba cuốn sách."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c89",
+        "index": 89,
+        "word": {
+            "hanzi": "商店",
+            "pinyin": "shāngdiàn"
+        },
+        "meaning": "cửa hàng",
+        "example": {
+            "hanzi": "这个商店很大。",
+            "pinyin": "Zhège shāngdiàn hěn dà.",
+            "meaning": "Cửa hàng này rất lớn."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c90",
+        "index": 90,
+        "word": {
+            "hanzi": "上",
+            "pinyin": "shàng"
+        },
+        "meaning": "lên",
+        "example": {
+            "hanzi": "他在上楼。",
+            "pinyin": "Tā zài shàng lóu.",
+            "meaning": "Anh ấy đang lên tầng."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c91",
+        "index": 91,
+        "word": {
+            "hanzi": "上午",
+            "pinyin": "shàngwǔ"
+        },
+        "meaning": "buổi sáng",
+        "example": {
+            "hanzi": "上午我们去学校。",
+            "pinyin": "Shàngwǔ wǒmen qù xuéxiào.",
+            "meaning": "Vào buổi sáng chúng tôi đi học."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c92",
+        "index": 92,
+        "word": {
+            "hanzi": "少",
+            "pinyin": "shǎo"
+        },
+        "meaning": "ít",
+        "example": {
+            "hanzi": "我们还少一个人。",
+            "pinyin": "Wǒmen hái shǎo yīgè rén.",
+            "meaning": "Chúng tôi vẫn thiếu một người."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c93",
+        "index": 93,
+        "word": {
+            "hanzi": "谁",
+            "pinyin": "shuí/ shéi"
+        },
+        "meaning": "ai",
+        "example": {
+            "hanzi": "谁是你的老师？",
+            "pinyin": "Shéi shì nǐ de lǎoshī?",
+            "meaning": "Ai là giáo viên của bạn?"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c94",
+        "index": 94,
+        "word": {
+            "hanzi": "什么",
+            "pinyin": "shénme"
+        },
+        "meaning": "cái gì",
+        "example": {
+            "hanzi": "你想吃什么？",
+            "pinyin": "Nǐ xiǎng chī shénme?",
+            "meaning": "Bạn muốn ăn gì?"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c95",
+        "index": 95,
+        "word": {
+            "hanzi": "十",
+            "pinyin": "shí"
+        },
+        "meaning": "mười",
+        "example": {
+            "hanzi": "我有十块钱。",
+            "pinyin": "Wǒ yǒu shí kuài qián.",
+            "meaning": "Tôi có mười tệ."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c96",
+        "index": 96,
+        "word": {
+            "hanzi": "时候",
+            "pinyin": "shíhòu"
+        },
+        "meaning": "lúc, khi",
+        "example": {
+            "hanzi": "你什么时候来？",
+            "pinyin": "Nǐ shénme shíhòu lái?",
+            "meaning": "Bạn đến lúc nào ?"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c97",
+        "index": 97,
+        "word": {
+            "hanzi": "是",
+            "pinyin": "shì"
+        },
+        "meaning": "là, thì",
+        "example": {
+            "hanzi": "这是一本好书。",
+            "pinyin": "Zhè shì yī běn hǎo shū.",
+            "meaning": "Đây là một cuốn sách hay."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c98",
+        "index": 98,
+        "word": {
+            "hanzi": "书",
+            "pinyin": "shū"
+        },
+        "meaning": "sách",
+        "example": {
+            "hanzi": "这本书很有意思。",
+            "pinyin": "Zhè běn shū hěn yǒuyìsi.",
+            "meaning": "Cuốn sách này rất thú vị."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c99",
+        "index": 99,
+        "word": {
+            "hanzi": "水",
+            "pinyin": "shuǐ"
+        },
+        "meaning": "nước",
+        "example": {
+            "hanzi": "我喝水。",
+            "pinyin": "Wǒ hē shuǐ.",
+            "meaning": "Tôi uống nước."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c100",
+        "index": 100,
+        "word": {
+            "hanzi": "水果",
+            "pinyin": "shuǐguǒ"
+        },
+        "meaning": "trái cây",
+        "example": {
+            "hanzi": "她喜欢吃水果。",
+            "pinyin": "Tā xǐhuān chī shuǐguǒ.",
+            "meaning": "Cô ấy thích ăn trái cây."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c101",
+        "index": 101,
+        "word": {
+            "hanzi": "睡觉",
+            "pinyin": "shuìjiào"
+        },
+        "meaning": "ngủ",
+        "example": {
+            "hanzi": "他每天晚上十点睡觉。",
+            "pinyin": "Tā měitiān wǎnshàng shí diǎn shuìjiào.",
+            "meaning": "Anh ấy đi ngủ lúc mười giờ tối mỗi ngày."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c102",
+        "index": 102,
+        "word": {
+            "hanzi": "说话",
+            "pinyin": "shuōhuà"
+        },
+        "meaning": "nói chuyện",
+        "example": {
+            "hanzi": "你怎么不说话？",
+            "pinyin": "Nǐ zěnme bù shuōhuà?",
+            "meaning": "Sao bạn không nói chuyện thế?"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c103",
+        "index": 103,
+        "word": {
+            "hanzi": "四",
+            "pinyin": "sì"
+        },
+        "meaning": "bốn",
+        "example": {
+            "hanzi": "他们四个人去旅行。",
+            "pinyin": "Tāmen sì gè rén qù lǚxíng.",
+            "meaning": "Bốn người họ đi du lịch."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c104",
+        "index": 104,
+        "word": {
+            "hanzi": "岁",
+            "pinyin": "suì"
+        },
+        "meaning": "tuổi",
+        "example": {
+            "hanzi": "我今年二十五岁。",
+            "pinyin": "Wǒ jīnnián èrshíwǔ suì.",
+            "meaning": "Tôi năm nay hai mươi lăm tuổi."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c105",
+        "index": 105,
+        "word": {
+            "hanzi": "他",
+            "pinyin": "tā"
+        },
+        "meaning": "anh ấy, ông ấy",
+        "example": {
+            "hanzi": "他是我的朋友。",
+            "pinyin": "Tā shì wǒ de péngyou.",
+            "meaning": "Anh ấy là bạn của tôi."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c106",
+        "index": 106,
+        "word": {
+            "hanzi": "她",
+            "pinyin": "tā"
+        },
+        "meaning": "cô ấy, bà ấy",
+        "example": {
+            "hanzi": "她在家里。",
+            "pinyin": "Tā zài jiālǐ.",
+            "meaning": "Cô ấy ở nhà."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c107",
+        "index": 107,
+        "word": {
+            "hanzi": "太",
+            "pinyin": "tài"
+        },
+        "meaning": "quá",
+        "example": {
+            "hanzi": "今天太热了。",
+            "pinyin": "Jīntiān tài rè le.",
+            "meaning": "Hôm nay nóng quá."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c108",
+        "index": 108,
+        "word": {
+            "hanzi": "天气",
+            "pinyin": "tiānqì"
+        },
+        "meaning": "thời tiết",
+        "example": {
+            "hanzi": "今天天气很好。",
+            "pinyin": "Jīntiān tiānqì hěn hǎo.",
+            "meaning": "Thời tiết hôm nay rất tốt."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c109",
+        "index": 109,
+        "word": {
+            "hanzi": "听",
+            "pinyin": "tīng"
+        },
+        "meaning": "nghe",
+        "example": {
+            "hanzi": "我喜欢听音乐。",
+            "pinyin": "Wǒ xǐhuān tīng yīnyuè.",
+            "meaning": "Tôi thích nghe nhạc."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c110",
+        "index": 110,
+        "word": {
+            "hanzi": "同学",
+            "pinyin": "tóngxué"
+        },
+        "meaning": "bạn học",
+        "example": {
+            "hanzi": "我们是同学。",
+            "pinyin": "Wǒmen shì tóngxué.",
+            "meaning": "Chúng tôi là bạn học."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c111",
+        "index": 111,
+        "word": {
+            "hanzi": "喂",
+            "pinyin": "wèi"
+        },
+        "meaning": "alo",
+        "example": {
+            "hanzi": "喂，你好吗？",
+            "pinyin": "Wèi, nǐ hǎo ma?",
+            "meaning": "Alo, bạn khỏe không?"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c112",
+        "index": 112,
+        "word": {
+            "hanzi": "我",
+            "pinyin": "wǒ"
+        },
+        "meaning": "tôi",
+        "example": {
+            "hanzi": "我想喝水。",
+            "pinyin": "Wǒ xiǎng hē shuǐ.",
+            "meaning": "Tôi muốn uống nước."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c113",
+        "index": 113,
+        "word": {
+            "hanzi": "我们",
+            "pinyin": "wǒ men"
+        },
+        "meaning": "chúng tôi",
+        "example": {
+            "hanzi": "我们一起去吧。",
+            "pinyin": "Wǒmen yīqǐ qù ba.",
+            "meaning": "Chúng ta cùng đi nhé."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c114",
+        "index": 114,
+        "word": {
+            "hanzi": "五",
+            "pinyin": "wǔ"
+        },
+        "meaning": "năm",
+        "example": {
+            "hanzi": "他有五本书。",
+            "pinyin": "Tā yǒu wǔ běn shū.",
+            "meaning": "Anh ấy có năm cuốn sách."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c115",
+        "index": 115,
+        "word": {
+            "hanzi": "喜欢",
+            "pinyin": "xǐhuān"
+        },
+        "meaning": "thích",
+        "example": {
+            "hanzi": "我喜欢喝咖啡。",
+            "pinyin": "Wǒ xǐhuān hē kāfēi.",
+            "meaning": "Tôi thích uống cà phê."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c116",
+        "index": 116,
+        "word": {
+            "hanzi": "下",
+            "pinyin": "xià"
+        },
+        "meaning": "xuống",
+        "example": {
+            "hanzi": "我在下楼。",
+            "pinyin": "Wǒ zài xià lóu.",
+            "meaning": "Tôi đang xuống lầu."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c117",
+        "index": 117,
+        "word": {
+            "hanzi": "下午",
+            "pinyin": "xiàwǔ"
+        },
+        "meaning": "buổi chiều",
+        "example": {
+            "hanzi": "下午我们去逛街。",
+            "pinyin": "Xiàwǔ wǒmen qù guàngjiē.",
+            "meaning": "uổi chiều, chúng tôi đi dạo phố."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c118",
+        "index": 118,
+        "word": {
+            "hanzi": "下雨",
+            "pinyin": "xià yǔ"
+        },
+        "meaning": "mưa",
+        "example": {
+            "hanzi": "外面下雨了，记得带伞。",
+            "pinyin": "Wàimiàn xià yǔ le, jìdé dài sǎn.",
+            "meaning": "Ngoài trời mưa, nhớ mang theo ô."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c119",
+        "index": 119,
+        "word": {
+            "hanzi": "先生",
+            "pinyin": "xiānshēng"
+        },
+        "meaning": "ông, ngài",
+        "example": {
+            "hanzi": "先生，这边请。",
+            "pinyin": "Xiānshēng, zhè biān qǐng",
+            "meaning": "Mời anh qua bên này."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c120",
+        "index": 120,
+        "word": {
+            "hanzi": "现在",
+            "pinyin": "xiànzài"
+        },
+        "meaning": "bây giờ",
+        "example": {
+            "hanzi": "我现在很累。",
+            "pinyin": "Wǒ xiànzài hěn lèi.",
+            "meaning": "Tôi hiện tại rất mệt."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c121",
+        "index": 121,
+        "word": {
+            "hanzi": "想",
+            "pinyin": "xiǎng"
+        },
+        "meaning": "nghĩ, muốn",
+        "example": {
+            "hanzi": "我想去看电影。",
+            "pinyin": "Wǒ xiǎng qù kàn diànyǐng.",
+            "meaning": "Tôi muốn đi xem phim."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c122",
+        "index": 122,
+        "word": {
+            "hanzi": "小",
+            "pinyin": "xiǎo"
+        },
+        "meaning": "nhỏ",
+        "example": {
+            "hanzi": "这是一只小狗。",
+            "pinyin": "Zhè shì yī zhī xiǎo gǒu.",
+            "meaning": "Đây là một chú chó con."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c123",
+        "index": 123,
+        "word": {
+            "hanzi": "小姐",
+            "pinyin": "xiǎojiě"
+        },
+        "meaning": "cô (trong cách gọi)",
+        "example": {
+            "hanzi": "小姐，请问这里有洗手间吗？",
+            "pinyin": "Xiǎojiě, qǐngwèn zhèlǐ yǒu xǐshǒujiān ma?",
+            "meaning": "Cô ơi, xin hỏi ở đây có nhà vệ sinh không?"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c124",
+        "index": 124,
+        "word": {
+            "hanzi": "些",
+            "pinyin": "xiē"
+        },
+        "meaning": "vài",
+        "example": {
+            "hanzi": "我们买了一些水果。",
+            "pinyin": "Wǒmen mǎile yīxiē shuǐguǒ.",
+            "meaning": "Chúng tôi đã mua một ít trái cây."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c125",
+        "index": 125,
+        "word": {
+            "hanzi": "写",
+            "pinyin": "xiě"
+        },
+        "meaning": "viết",
+        "example": {
+            "hanzi": "我正在写信。",
+            "pinyin": "Wǒ zhèngzài xiě xìn.",
+            "meaning": "Tôi đang viết thư."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c126",
+        "index": 126,
+        "word": {
+            "hanzi": "谢谢",
+            "pinyin": "xièxiè"
+        },
+        "meaning": "cảm ơn",
+        "example": {
+            "hanzi": "谢谢你的帮助。",
+            "pinyin": "Xièxiè nǐ de bāngzhù.",
+            "meaning": "Cảm ơn sự giúp đỡ của bạn."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c127",
+        "index": 127,
+        "word": {
+            "hanzi": "星期",
+            "pinyin": "xīngqī"
+        },
+        "meaning": "tuần",
+        "example": {
+            "hanzi": "一个星期就好。",
+            "pinyin": "Yí gè xīngqī jiǔ hǎo.",
+            "meaning": "Một tuần là được"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c128",
+        "index": 128,
+        "word": {
+            "hanzi": "学生",
+            "pinyin": "xuéshēng"
+        },
+        "meaning": "học sinh",
+        "example": {
+            "hanzi": "他是一个好学生。",
+            "pinyin": "Tā shì yīgè hǎo xuéshēng.",
+            "meaning": "Anh ấy là một học sinh giỏi."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c129",
+        "index": 129,
+        "word": {
+            "hanzi": "学习",
+            "pinyin": "xuéxí"
+        },
+        "meaning": "học tập",
+        "example": {
+            "hanzi": "学习中文很有趣。",
+            "pinyin": "Xuéxí zhōngwén hěn yǒuqù.",
+            "meaning": "Học tiếng Trung rất thú vị."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c130",
+        "index": 130,
+        "word": {
+            "hanzi": "学校",
+            "pinyin": "xuéxiào"
+        },
+        "meaning": "trường học",
+        "example": {
+            "hanzi": "我在学校学习中文。",
+            "pinyin": "Wǒ zài xuéxiào xuéxí zhōngwén.",
+            "meaning": "Tôi học tiếng Trung ở trường."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c131",
+        "index": 131,
+        "word": {
+            "hanzi": "一",
+            "pinyin": "yī"
+        },
+        "meaning": "một",
+        "example": {
+            "hanzi": "一个人在公园散步。",
+            "pinyin": "Yī gè rén zài gōngyuán sànbù.",
+            "meaning": "Một người đang đi dạo trong công viên."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c132",
+        "index": 132,
+        "word": {
+            "hanzi": "衣服",
+            "pinyin": "yīfu"
+        },
+        "meaning": "quần áo",
+        "example": {
+            "hanzi": "这件衣服很漂亮。",
+            "pinyin": "Zhè jiàn yīfu hěn piàoliang.",
+            "meaning": "Bộ quần áo này rất đẹp."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c133",
+        "index": 133,
+        "word": {
+            "hanzi": "医生",
+            "pinyin": "yīshēng"
+        },
+        "meaning": "bác sĩ",
+        "example": {
+            "hanzi": "他是一位医生。",
+            "pinyin": "Tā shì yī wèi yīshēng.",
+            "meaning": "Anh ấy là một bác sĩ."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c134",
+        "index": 134,
+        "word": {
+            "hanzi": "医院",
+            "pinyin": "yīyuàn"
+        },
+        "meaning": "bệnh viện",
+        "example": {
+            "hanzi": "我们去医院看病。",
+            "pinyin": "Wǒmen qù yīyuàn kàn bìng.",
+            "meaning": "Chúng tôi đến bệnh viện để khám bệnh."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c135",
+        "index": 135,
+        "word": {
+            "hanzi": "椅子",
+            "pinyin": "yǐzi"
+        },
+        "meaning": "ghế",
+        "example": {
+            "hanzi": "请坐在椅子上。",
+            "pinyin": "Qǐng zuò zài yǐzi shàng.",
+            "meaning": "Xin ngồi lên ghế."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c136",
+        "index": 136,
+        "word": {
+            "hanzi": "月",
+            "pinyin": "yuè"
+        },
+        "meaning": "tháng, mặt trăng",
+        "example": {
+            "hanzi": "这个月我很忙。",
+            "pinyin": "Zhège yuè wǒ hěn máng.",
+            "meaning": "Tháng này tôi rất bận."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c137",
+        "index": 137,
+        "word": {
+            "hanzi": "在",
+            "pinyin": "zài"
+        },
+        "meaning": "ở, tại",
+        "example": {
+            "hanzi": "他在学校学习。",
+            "pinyin": "Tā zài xuéxiào xuéxí.",
+            "meaning": "Anh ấy học ở trường."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c138",
+        "index": 138,
+        "word": {
+            "hanzi": "再见",
+            "pinyin": "zàijiàn"
+        },
+        "meaning": "tạm biệt",
+        "example": {
+            "hanzi": "我们明天再见。",
+            "pinyin": "Wǒmen míngtiān zàijiàn.",
+            "meaning": "Chúng ta gặp lại vào ngày mai."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c139",
+        "index": 139,
+        "word": {
+            "hanzi": "怎么",
+            "pinyin": "zěnme"
+        },
+        "meaning": "làm sao",
+        "example": {
+            "hanzi": "你怎么了？",
+            "pinyin": "Nǐ zěnme le?",
+            "meaning": "Bạn sao vậy?"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c140",
+        "index": 140,
+        "word": {
+            "hanzi": "怎么样",
+            "pinyin": "zěnmeyàng"
+        },
+        "meaning": "như thế nào",
+        "example": {
+            "hanzi": "你的工作怎么样？",
+            "pinyin": "Nǐ de gōngzuò zěnmeyàng?",
+            "meaning": "Công việc của bạn thế nào?"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c141",
+        "index": 141,
+        "word": {
+            "hanzi": "这",
+            "pinyin": "zhè"
+        },
+        "meaning": "Đây, này",
+        "example": {
+            "hanzi": "这件事怎么样？",
+            "pinyin": "Zhè jiàn shì zěnme yàng?",
+            "meaning": "Việc này như thế nào?"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c142",
+        "index": 142,
+        "word": {
+            "hanzi": "中国",
+            "pinyin": "Zhōngguó"
+        },
+        "meaning": "Trung Quốc",
+        "example": {
+            "hanzi": "中国有很多美丽的风景。",
+            "pinyin": "Zhōngguó yǒu hěn duō měilì de fēngjǐng.",
+            "meaning": "Trung Quốc có nhiều cảnh đẹp."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c143",
+        "index": 143,
+        "word": {
+            "hanzi": "中午",
+            "pinyin": "zhōngwǔ"
+        },
+        "meaning": "buổi trưa",
+        "example": {
+            "hanzi": "中午我们去吃饭吧。",
+            "pinyin": "Zhōngwǔ wǒmen qù chīfàn ba.",
+            "meaning": "Buổi trưa chúng ta đi ăn cơm nhé."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c144",
+        "index": 144,
+        "word": {
+            "hanzi": "住",
+            "pinyin": "zhù"
+        },
+        "meaning": "sống, cư trú",
+        "example": {
+            "hanzi": "我住在一个很安静的地方。",
+            "pinyin": "Wǒ zhù zài yīgè hěn ānjìng de dìfāng.",
+            "meaning": "Tôi sống ở một nơi rất yên tĩnh."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c145",
+        "index": 145,
+        "word": {
+            "hanzi": "桌子",
+            "pinyin": "zhuōzi"
+        },
+        "meaning": "bàn",
+        "example": {
+            "hanzi": "桌子上放着一本书。",
+            "pinyin": "Zhuōzi shàng fàngzhe yī běn shū.",
+            "meaning": "Trên bàn có một cuốn sách."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c146",
+        "index": 146,
+        "word": {
+            "hanzi": "字",
+            "pinyin": "zì"
+        },
+        "meaning": "chữ",
+        "example": {
+            "hanzi": "我们要学会写字。",
+            "pinyin": "Wǒmen yào xuéhuì xiě zì.",
+            "meaning": "Chúng ta phải học viết chữ."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c147",
+        "index": 147,
+        "word": {
+            "hanzi": "昨天",
+            "pinyin": "zuótiān"
+        },
+        "meaning": "hôm qua",
+        "example": {
+            "hanzi": "昨天我去看了一部电影。",
+            "pinyin": "Zuótiān wǒ qù kànle yī bù diànyǐng.",
+            "meaning": "Hôm qua tôi đã đi xem một bộ phim."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c148",
+        "index": 148,
+        "word": {
+            "hanzi": "坐",
+            "pinyin": "zuò"
+        },
+        "meaning": "ngồi",
+        "example": {
+            "hanzi": "我们在公园里坐了一会儿。",
+            "pinyin": "Wǒmen zài gōngyuán lǐ zuòle yīhuìr.",
+            "meaning": "Chúng tôi đã ngồi một lúc trong công viên."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c149",
+        "index": 149,
+        "word": {
+            "hanzi": "做",
+            "pinyin": "zuò"
+        },
+        "meaning": "làm",
+        "example": {
+            "hanzi": "他正在做作业。",
+            "pinyin": "Tā zhèngzài zuò zuòyè.",
+            "meaning": "Anh ấy đang làm bài tập về nhà."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c150",
+        "index": 150,
+        "word": {
+            "hanzi": "你好",
+            "pinyin": "nǐ hǎo"
+        },
+        "meaning": "xin chào",
+        "example": {
+            "hanzi": "你好！",
+            "pinyin": "Nǐ hǎo!",
+            "meaning": "Xin chào!"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c151",
+        "index": 151,
+        "word": {
+            "hanzi": "你们",
+            "pinyin": "nǐ men"
+        },
+        "meaning": "các bạn",
+        "example": {
+            "hanzi": "你们忙吗？",
+            "pinyin": "Nǐmen máng ma?",
+            "meaning": "Các bạn có bận không?"
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c152",
+        "index": 152,
+        "word": {
+            "hanzi": "有",
+            "pinyin": "yǒu"
+        },
+        "meaning": "có",
+        "example": {
+            "hanzi": "我有一个问题。",
+            "pinyin": "Wǒ yǒu yí gè wèntí.",
+            "meaning": "Tôi có một câu hỏi."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c153",
+        "index": 153,
+        "word": {
+            "hanzi": "男朋友",
+            "pinyin": "nán péngyou"
+        },
+        "meaning": "bạn trai",
+        "example": {
+            "hanzi": "他是我的男朋友。",
+            "pinyin": "Tā shì wǒ de nán péngyou.",
+            "meaning": "Anh ấy là bạn trai của tôi."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c154",
+        "index": 154,
+        "word": {
+            "hanzi": "女朋友",
+            "pinyin": "nǚ péngyou"
+        },
+        "meaning": "bạn gái",
+        "example": {
+            "hanzi": "她是我的女朋友。",
+            "pinyin": "Tā shì wǒ de nǚ péngyou.",
+            "meaning": "Cô ấy là bạn gái của tôi."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c155",
+        "index": 155,
+        "word": {
+            "hanzi": "只有",
+            "pinyin": "zhǐyǒu"
+        },
+        "meaning": "chỉ có; chỉ khi (điều kiện duy nhất)",
+        "example": {
+            "hanzi": "只有努力学习，才会成功。",
+            "pinyin": "Zhǐyǒu nǔlì xuéxí, cái huì chénggōng.",
+            "meaning": "Chỉ có học tập chăm chỉ thì mới thành công."
+        }
+    },
+    {
+        "id": "cb281396-8bb3-4c87-a84a-6dde0b6596c156",
+        "index": 156,
+        "word": {
+            "hanzi": "一下",
+            "pinyin": "yíxià"
+        },
+        "meaning": "một chút; một lát (làm nhẹ câu nói, mang tính lịch sự)",
+        "example": {
+            "hanzi": "我想去你家玩一下。",
+            "pinyin": "Wǒ xiǎng qù nǐ jiā wán yíxià.",
+            "meaning": "Tôi muốn sang nhà bạn chơi một chút."
+        }
+    }
+]
